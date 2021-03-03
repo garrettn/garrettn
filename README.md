@@ -12,12 +12,12 @@ I’m a web developer, frontend developer, or UI engineer, depending on who you 
 When it comes to working on the web, some things get me especially fired up:
 
 * **Accessibility**—Making web experiences the best they can be for all kinds of users.
-* **Privacy**—Giving good experiences without tracking users everywhere and making them sell their soul.
-* **Data ownership**—Giving users complete control over what happens to their data.
+* **Privacy**—Allowing users to choose what data they share and providing a good experience without invasive tracking.
+* **Data ownership**—Giving users complete control over what happens to their data, even if it means taking it out of your app.
 * **Honesty**—Being clear with users, not tricking them into things they didn’t choose.
 * **Openness**—Sharing and cooperating with the community, making it better for everyone.
 * **Decentralization**—Letting the web belong to everyone, not just a few big companies.
-* **Kindness**—Recognizing other people as people and not treating them like enemies.
+* **Kindness**—Recognizing other people as people and not treating them like enemies. Assuming the best of others.
 
 ## Some Things I’m Intersted In
 
