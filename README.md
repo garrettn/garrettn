@@ -25,11 +25,12 @@ Not an exhaustive list, but these are some of the things I’m thinking about no
 
 * [**Jamstack**](https://jamstack.org/)—I’m still dipping my toes in here but it’s a philosophy that makes sense to me, and it just seems like a fun way to develop.
 * [**Indieweb**](https://indieweb.org/)—I feel like this movement (if you can call it that) really captures what makes the web so cool.
-* **Functional programming**—I’ve dabbled in some FP languages and try to bring some of those principles to JS. But I want to learn more about languages that are actually built for it.
+* [**Functional programming**](https://en.wikipedia.org/wiki/Functional_programming)—I’ve dabbled in some FP languages and try to bring some of those principles to JS. But I want to learn more about languages that are actually built for it.
+* [**Finite state machines**](https://en.wikipedia.org/wiki/Finite-state_machine)—This is one of those things where once you learn about it, it seems like the solution to every problem. [XState](https://xstate.js.org/) is an amazing statechart library. I still have a lot to learn here, but I love it so far.
 * [**Progressive web apps**](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)—It’s amazing what web apps are capable of now. This is so much more interesting to me than native apps.
-* **CSS**—It’s often an afterthought in frontend web development, but there is so much to learn here! Especially with how powerful it’s become over the past few years.
-* **React**—Not exactly new or unique anymore, but it still is fun to work with. It’s currently what I use professionally.
-* **Writing and teaching**—I love to share what I learn. I’m searching for a way to combine my love of web developpment with my love of writing and teaching in one career.
+* [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)—It’s often an afterthought in frontend web development, but there is so much to learn here! Especially with how powerful it’s become over the past few years.
+* [**React**](https://reactjs.org/)—Not exactly new or unique anymore, but it still is fun to work with. It’s currently what I use professionally.
+* **Writing and teaching**—I love to share what I learn. I’m searching for a way to combine my love of web developpment with my love of writing and teaching in one career. I’m still working on getting my blog back up and running, but I have written [a few old articles](https://www.garrettnay.com/blog/better-redux-selectors-with-ramda/) [that I'm](https://www.garrettnay.com/blog/css-grid-is-great/) [still proud of](https://www.garrettnay.com/blog/use-javascript-proxies-to-debug-changes-to-objects/).
 
 
 ## Some Things I Made
